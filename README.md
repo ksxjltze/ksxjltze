@@ -3,6 +3,15 @@
     <h1>Hello There</h1>
     <p>I'm Jia Keat, a 3rd year student at the DigiPen Institute of Technology Singapore.</p>
     <p>I love technology, software development and video games.</p>
+    <p><strong><i><a align="center" href="mailto: leejiakeat@gmail.com">leejiakeat@gmail.com</a><i></strong><p/>
+    <p align="center">
+      <a href="https://www.linkedin.com/in/leejiakeat/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lee Jia Keat's LinkedIn Profile"/>
+      </a>
+      <a href="https://ksxjltze.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/ksxjltze.github.io-FF5733?style=for-the-badge&logo=jekyll" alt="Lee Jia Keat's Personal Website"/>
+      </a>
+    </p>
   </div>
   <hr/>
   <div align=center>

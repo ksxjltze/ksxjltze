@@ -8,15 +8,12 @@
   <div align=center>
     <div>
       <div>
-        <a href="https://git.io/streak-stats"><img style="width: 50%;" src="http://github-readme-streak-stats.herokuapp.com?user=ksxjltze&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"/></a>
+        <a href="https://git.io/streak-stats"><img align=center style="width: 50%;" src="http://github-readme-streak-stats.herokuapp.com?user=ksxjltze&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"/></a>
       </div>
       <br>
-      <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=ksxjltze&theme=highcontrast"/></a>
-      </div>
-      <br>
-      <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksxjltze&layout=compact&theme=vision-friendly-dark"/></a>
+      <div align=center>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align=center height=170 src="https://github-readme-stats.vercel.app/api?username=ksxjltze&theme=highcontrast"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align=center height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksxjltze&layout=compact&theme=vision-friendly-dark"/></a>
       </div>
     </div>
   </div>

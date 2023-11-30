@@ -8,6 +8,7 @@
       <a href="https://www.linkedin.com/in/leejiakeat/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lee Jia Keat's LinkedIn Profile"/>
       </a>
+      <br>
       <a href="https://ksxjltze.github.io" target="_blank">
         <img src="https://img.shields.io/badge/ksxjltze.github.io-FF5733?style=for-the-badge&logo=jekyll" alt="Lee Jia Keat's Personal Website"/>
       </a>

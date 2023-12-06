@@ -1,7 +1,7 @@
 <div>
   <div align=center>
     <h1>Hello There</h1>
-    <p>I'm Jia Keat, a 3rd year student at the DigiPen Institute of Technology Singapore.</p>
+    <p>I'm Jia Keat, a senior student at the DigiPen Institute of Technology Singapore.</p>
     <p>I love technology, software development and video games.</p>
     <p><strong><i><a align="center" href="mailto: leejiakeat@gmail.com">leejiakeat@gmail.com</a><i></strong><p/>
     <p align="center">

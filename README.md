@@ -1,9 +1,7 @@
 <div>
   <div align=center>
     <h1>Hello There</h1>
-    <p>I'm Jia Keat, a CS RTIS graduate from the DigiPen Institute of Technology Singapore.</p>
-    <p>Currently, I'm a gameplay programmer for RATHSOFT, specializing in game development using the Unity engine.</p>
-    <p>I love technology, software development and video games.</p>
+    <p>Just a guy who likes to code.</p>
     <p><strong><i><a align="center" href="mailto: leejiakeat@gmail.com">leejiakeat@gmail.com</a><i></strong><p/>
     <p align="center">
       <a href="https://www.linkedin.com/in/leejiakeat/" target="_blank">

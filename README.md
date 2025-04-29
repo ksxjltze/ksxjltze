@@ -9,17 +9,13 @@
       </a>
       <br>
       <a href="https://leejiakeat.online" target="_blank">
-        <img src="https://img.shields.io/badge/leejiakeat.online-CCCCCC?style=for-the-badge&logo=svelte" alt="Lee Jia Keat's Personal Website"/>
+        <img src="https://img.shields.io/badge/leejiakeat.online-000000?style=for-the-badge&logo=vercel" alt="Lee Jia Keat's Personal Website"/>
       </a>
     </p>
   </div>
   <hr/>
   <div align=center>
     <div>
-      <div>
-        <a href="https://git.io/streak-stats"><img align=center style="width: 50%;" src="http://github-readme-streak-stats.herokuapp.com?user=ksxjltze&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"/></a>
-      </div>
-      <br>
       <div align=center>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img align=center height=170 src="https://github-readme-stats.vercel.app/api?username=ksxjltze&theme=highcontrast"/></a>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img align=center height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksxjltze&layout=compact&theme=vision-friendly-dark"/></a>
